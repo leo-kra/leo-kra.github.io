@@ -1505,6 +1505,13 @@ input, select, textarea {
 
 		}
 
+/* Badge */
+
+	#badge {
+		margin: 0 auto;
+		width: auto;
+	}
+
 /* Form */
 
 	form label {
