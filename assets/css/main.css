@@ -1665,6 +1665,13 @@ input, select, textarea {
 				width: auto;
 			}
 
+	#image-matrix {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 75%;
+	}
+
 /* Button */
 
 	input[type="button"],

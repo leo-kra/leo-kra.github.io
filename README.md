@@ -14,7 +14,7 @@ Welcome to my website hosted on GitHub: [leo-kra.github.io](https://leo-kra.gith
 Contact form: [formspree.io](https://formspree.io/)
 
 
-Icons: [fonrawesome.com](https://fontawesome.com/)
+Icons: [fontawesome.com](https://fontawesome.com/)
 
 ## Template
 
