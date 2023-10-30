@@ -1512,6 +1512,14 @@ input, select, textarea {
 		width: auto;
 	}
 
+/* News */
+
+	#news-container {
+		max-width: 400px;
+		border: 5px solid #8b0000;
+		padding: 10px;
+	}
+
 /* Form */
 
 	form label {

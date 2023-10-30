@@ -17,6 +17,8 @@
 		<link rel="icon" type="image/x-icon" href="/images/favicon_io/favicon.ico">
 		<script src="https://kit.fontawesome.com/4505e8b6e0.js" crossorigin="anonymous"></script>
 		<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+		<script src="./assets/js/env.js" defer></script>
+		<script src="./assets/js/news.js" defer></script>
 	</head>
 	<body class="is-preload">
 
@@ -88,7 +90,6 @@
 					</div>
 					<br>
 					<footer>
-						<!-- <p></p> -->
 						<a href="#portfolio" class="button large scrolly">Previous projects</a>
 					</footer>
 				</div>
@@ -159,12 +160,16 @@
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
-								<a href="https://github.com/leo-kra/leo-kra.github.io" target="_blank" class="image featured"><img src="./images/projects/github.jpg" alt="GitHub logo" /></a>
+								<a href="https://newsapi.org/" target="_blank" class="image featured"><img src="./images/projects/news.png" alt="NewsAPI logo" /></a>
+								<div id="news-container"></div>
+								<br>
+								<button class="button small scrolly" id="prev-button" onclick="showPrevious()">Previous</button>
+								<button class="button small scrolly" id="next-button" onclick="showNext()">Next</button>
+								<br>
 								<h3><a href="https://github.com/leo-kra/leo-kra.github.io" target="_blank">Personal Website</a></h3>
 								<p>
 									This website is fully open-source and built using HTML, CSS, SASS, JavaScript, and jQuery.
-									It is based on an <a href="https://html5up.net/miniport" target="_blank">HTML5 UP</a> template and utilises <a href="https://formspree.io/" target="_blank">formspree.io</a> for the contact form and <a href="https://fontawesome.com/icons" target="_blank">fontawesome.com</a> for some used icons.
-									More features coming soon..
+									The above top technology headlines in the UK as of yesterday are fetched using an HTTP GET request from the <a href="https://newsapi.org/" target="_blank">News API</a>.
 								</p>
 							</article>
 						</div>
