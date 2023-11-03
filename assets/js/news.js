@@ -62,7 +62,7 @@ function updateButtonVisibility(totalArticles) {
     nextButton.disabled = currentPage * articlesPerPage >= totalArticles;
 }
 
-const apiKey = config.apiKey;
+const apiKey = '8e13cb77a7674f1c92c6c4d551017fed';
 let currentPage = 1;
 const articlesPerPage = 1;
 

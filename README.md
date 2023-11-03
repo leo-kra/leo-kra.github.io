@@ -1,6 +1,6 @@
-# My personal portfolio website
+# My personal website
 
-Welcome to my website hosted on GitHub: [leo-kra.github.io](https://leo-kra.github.io/)
+Welcome to my open-source website hosted on GitHub: [leo-kra.github.io](https://leo-kra.github.io/)
 
 ## Tech Stack & Tools 
 
@@ -9,17 +9,14 @@ Welcome to my website hosted on GitHub: [leo-kra.github.io](https://leo-kra.gith
 - SASS
 - JavaScript
 - jQuery
-- CI/CD deployments via GitHub Pages 
+- CI/CD and hosting with GitHub Pages powered by Jekyll
 
 Contact form: [formspree.io](https://formspree.io/)
 
 
 Icons: [fontawesome.com](https://fontawesome.com/)
 
-## Template
+Original template: Miniport by [html5up.net](https://html5up.net/)
 
-Miniport by HTML5 UP: [html5up.net](https://html5up.net/)
-
-html5up.net | @ajlkn
 
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
