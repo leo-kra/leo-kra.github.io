@@ -1,5 +1,2 @@
-# Ignore env file containing API keys
-/assets/js/env.js
-
 # Ignore installed modules
 /node_modules
