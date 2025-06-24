@@ -2251,6 +2251,10 @@ input, select, textarea {
 
 	@media screen and (max-width: 980px) {
 
+		#intro-text {
+			margin-top: 80px;
+		}
+
 		/* Articles */
 
 			#top {
